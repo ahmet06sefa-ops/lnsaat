@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- One kitchen wall with upper and lower cabinets, worktop and services -->
+<path d="M180 100h1015v525H180z" fill="#ece9db" stroke="#8b8878" stroke-width="4"/><path d="M180 625h1015l95 75H91z" fill="#ded9c9" stroke="#8b8878" stroke-width="4"/>
+<path d="M205 170h95v355h-95M1145 170h-95v355h95" fill="none" stroke="#c17a56" stroke-width="4" stroke-dasharray="13 10"/>
+<g stroke="#776c59" stroke-width="4"><rect x="328" y="147" width="670" height="220" fill="#ddc5a4"/><path d="M344 164h200v187H344zM560 164h203v187H560zM780 164h201v187H780z" fill="#e8d5ba"/><path d="M533 223v54m238-54v54m193-54v54" stroke="#758777" stroke-width="6"/></g>
+<g fill="#627b69" stroke="#f2eee0" stroke-width="3"><circle cx="348" cy="157" r="12"/><circle cx="977" cy="157" r="12"/></g>
+<path d="M290 430h750l26 35H268z" fill="#f8f4e8" stroke="#817e6e" stroke-width="4"/><rect x="292" y="465" width="750" height="180" fill="#d8bea0" stroke="#817260" stroke-width="4"/>
+<path d="M310 481h200v145H310zM525 481h212v145H525zM752 481h272v145H752z" fill="#e8d2b5" stroke="#817260" stroke-width="3"/><path d="M492 528v44m227-44v44m287-44v44" stroke="#758777" stroke-width="6"/>
+<ellipse cx="830" cy="438" rx="103" ry="19" fill="#b8cbc1" stroke="#718578" stroke-width="4"/><path d="M865 427v-48q0-36-31-36t-31 36" fill="none" stroke="#6a7e70" stroke-width="8"/><circle cx="803" cy="380" r="6" fill="#c96e4e"/>
+<path d="M804 474v65q0 20 20 20h37v49" fill="none" stroke="#9bb9bc" stroke-width="6" stroke-dasharray="10 7"/><path d="M722 429h240" stroke="#b88b67" stroke-width="3"/>
+</svg>

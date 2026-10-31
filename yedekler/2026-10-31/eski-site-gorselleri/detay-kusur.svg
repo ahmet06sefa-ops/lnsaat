@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- One damaged wall under inspection -->
+<path d="M205 107h967v515H205z" fill="#ebe7d9" stroke="#8c8979" stroke-width="4"/><path d="M205 622h967l105 77H98z" fill="#dedacb" stroke="#8c8979" stroke-width="4"/>
+<path d="M342 388c-43-68-22-161 25-180 24-10 49 12 69 31 35 35 94 42 94 105 0 73-31 124-107 130-39 2-64-32-81-86z" fill="#a9c4bd" opacity=".55"/><path d="M382 265c17 5 28 20 30 42M449 329c25 10 29 34 24 52" fill="none" stroke="#8aac9f" stroke-width="4"/>
+<path d="M775 128l-29 82 38 42-31 71 39 49-27 77 27 46-12 86" fill="none" stroke="#a4634a" stroke-width="7" stroke-linecap="round"/><path d="M783 252l41 25 30-16M751 323l-45 21-15 36M792 452l39-12 26 26" fill="none" stroke="#a4634a" stroke-width="4"/>
+<path d="M574 426c-32 5-53 34-48 70 5 37 38 48 65 43 19-4 33-12 39-31 25 6 56-13 57-37 2-27-28-45-54-37-11-17-35-20-59-8z" fill="#d1b6a0" stroke="#ae8e78" stroke-width="3"/>
+<g transform="translate(900 495)"><rect x="0" y="0" width="105" height="156" rx="13" fill="#d0dbca" stroke="#708373" stroke-width="5"/><rect x="17" y="18" width="71" height="53" rx="5" fill="#f4f2e5" stroke="#708373" stroke-width="4"/><path d="M29 42h47" stroke="#9cab9d" stroke-width="5"/><circle cx="53" cy="112" r="17" fill="#bd7354" stroke="#708373" stroke-width="4"/></g>
+<g transform="translate(1020 602) rotate(7)"><rect width="135" height="67" rx="8" fill="#c3cdbb" stroke="#708373" stroke-width="4"/><circle cx="69" cy="33" r="23" fill="#eef0e4" stroke="#708373" stroke-width="4"/><circle cx="69" cy="33" r="12" fill="#7f9684"/></g>
+</svg>

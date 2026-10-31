@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- One clad wall with one panel offset to reveal prepared backing -->
+<path d="M180 114h1020v500H180z" fill="#d0c8b5" stroke="#817d70" stroke-width="4"/><path d="M180 614h1020l90 81H95z" fill="#ddd9ca" stroke="#817d70" stroke-width="4"/>
+<rect x="215" y="150" width="250" height="210" fill="#c5c3b2" stroke="#929785" stroke-width="4"/><path d="M230 166v180m22-180v180m22-180v180m22-180v180m22-180v180m22-180v180m22-180v180m22-180v180m22-180v180m22-180v180" stroke="#a1ad9b" stroke-width="6"/>
+<g stroke="#8a8d7e" stroke-width="4"><rect x="493" y="150" width="305" height="210" fill="#e5e4d7"/><rect x="814" y="150" width="345" height="210" fill="#d4dfd2"/><rect x="215" y="376" width="305" height="207" fill="#e9e5d9"/><rect x="536" y="376" width="305" height="207" fill="#d6e0d1"/><rect x="857" y="376" width="302" height="207" fill="#ede5d9"/></g>
+<g fill="none" stroke="#b7c2b3" stroke-width="3" opacity=".8"><path d="M510 175q95 12 154 103t113 42M853 175q88 53 125 18t148 47M244 407q104 20 123 104t133 49M559 413q90-10 144 78t112 56M879 398q92 45 138 18t119 69"/></g>
+<g transform="translate(235 135) rotate(-7 125 105)"><rect width="250" height="210" fill="#f4eee0" stroke="#a49985" stroke-width="4"/><path d="M21 42q77 9 103 67t103 51M44 12q64 33 80 73t90 54" fill="none" stroke="#bfc5b4" stroke-width="3"/></g>
+<path d="M1175 163v406" stroke="#c57a58" stroke-width="5" stroke-dasharray="14 10"/>
+</svg>

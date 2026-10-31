@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- Quality-control clipboard with image, ruler and pen -->
+<ellipse cx="691" cy="670" rx="490" ry="30" fill="#657b65" opacity=".12" filter="url(#shadow)"/>
+<g transform="translate(432 97) rotate(-3 220 270)"><rect x="0" y="0" width="420" height="535" rx="12" fill="#b9c8b4" stroke="#687c6b" stroke-width="5"/><rect x="23" y="30" width="374" height="478" rx="4" fill="#fffcf2" stroke="#98a997" stroke-width="3"/><path d="M150 30V8q0-25 60-25t60 25v22" fill="#d8e4d6" stroke="#687c6b" stroke-width="5"/><path d="M62 112h28v28H62zM62 195h28v28H62zM62 278h28v28H62zM62 361h28v28H62z" fill="none" stroke="#92a894" stroke-width="4"/><path d="M68 123l7 8 13-16M68 206l7 8 13-16" fill="none" stroke="#5e8768" stroke-width="5"/><path d="M117 119h204m-204 18h158m-158 65h204m-204 18h144m-144 65h204m-204 18h159m-159 65h204m-204 18h158" stroke="#c6d1bf" stroke-width="7"/></g>
+<g transform="translate(166 382) rotate(-8 135 95)"><rect width="271" height="198" rx="3" fill="#faf8ef" stroke="#98a997" stroke-width="4"/><rect x="14" y="14" width="243" height="145" fill="#d5e0d1"/><path d="M15 126l63-55 48 39 48-48 83 63" fill="none" stroke="#8eaa93" stroke-width="7"/><circle cx="207" cy="46" r="16" fill="#d6a785"/><path d="M19 179h160" stroke="#bdcbbb" stroke-width="6"/></g>
+<g transform="translate(923 184) rotate(12 70 210)"><rect x="45" width="45" height="390" rx="5" fill="#d5b78e" stroke="#866d55" stroke-width="4"/><path d="M45 38h20M45 73h13M45 108h20M45 143h13M45 178h20M45 213h13M45 248h20M45 283h13M45 318h20M45 353h13" stroke="#8a7058" stroke-width="3"/></g>
+<path d="M926 616l194-135 23 33-197 134z" fill="#c46d4b" stroke="#775d4e" stroke-width="4"/><path d="M923 619l-20 30 43-2z" fill="#e1c6a7" stroke="#775d4e" stroke-width="4"/>
+</svg>

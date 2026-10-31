@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- Organised building-material delivery on a dry pallet -->
+<ellipse cx="688" cy="681" rx="510" ry="25" fill="#657b65" opacity=".1" filter="url(#shadow)"/>
+<path d="M280 627h820l35 43H245z" fill="#b58a66" stroke="#796b58" stroke-width="4"/><path d="M307 665v32m160-32v32m420-32v32m165-32v32" stroke="#796b58" stroke-width="10"/>
+<g stroke="#867968" stroke-width="4"><path d="M312 238h292v178H312z" fill="#d8c19e"/><path d="M312 238l33-32h260l-1 32z" fill="#e9d4b0"/><path d="M604 238l36-24v177l-36 25z" fill="#c7aa86"/><path d="M330 428h292v177H330z" fill="#d8c19e"/><path d="M330 428l33-32h260l-1 32z" fill="#e9d4b0"/><path d="M622 428l35-24v176l-35 25z" fill="#c7aa86"/></g>
+<g fill="#f8f4e8" stroke="#9d9b88" stroke-width="3"><rect x="370" y="280" width="166" height="100" rx="4"/><rect x="388" y="470" width="166" height="100" rx="4"/></g>
+<g stroke="#7c927d" stroke-width="5"><path d="M392 302h114m-114 19h75m-75 19h103m-103 18h68"/><path d="M410 492h112m-112 19h72m-72 19h101m-101 18h68"/></g>
+<g transform="translate(700 266)"><path d="M0 52Q0 28 28 28h150q27 0 27 24v244q0 24-27 24H28Q0 320 0 296z" fill="#e9e4d2" stroke="#7b8070" stroke-width="5"/><ellipse cx="102" cy="29" rx="102" ry="25" fill="#a9bca7" stroke="#7b8070" stroke-width="5"/><path d="M26 95h154v145H26z" fill="#faf8ec" stroke="#a6a995" stroke-width="3"/><path d="M47 121h112M47 143h84M47 165h100M47 188h75M47 209h96" stroke="#a5b4a0" stroke-width="5"/></g>
+<g transform="translate(935 354)"><path d="M0 44Q0 22 23 22h107q23 0 23 22v194q0 22-23 22H23Q0 260 0 238z" fill="#c8d3bf" stroke="#7b8070" stroke-width="4"/><ellipse cx="76" cy="22" rx="76" ry="20" fill="#e7eee0" stroke="#7b8070" stroke-width="4"/><rect x="25" y="79" width="100" height="83" rx="3" fill="#f9f7eb" stroke="#b4b9a7" stroke-width="3"/><path d="M38 100h74M38 118h53M38 137h64" stroke="#9cac9a" stroke-width="4"/></g>
+<path d="M255 176Q688 83 1115 176" fill="none" stroke="#a8bca9" stroke-width="5" stroke-dasharray="16 12"/>
+</svg>

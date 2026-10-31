@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- An unfinished wall, reference laser, straightedge, plumb and record book -->
+<ellipse cx="685" cy="682" rx="560" ry="28" fill="#657b65" opacity=".1" filter="url(#shadow)"/>
+<path d="M177 110 L1130 110 L1130 605 L177 605 Z" fill="#ebe8d9" stroke="#817c6d" stroke-width="4"/>
+<path d="M177 605H1130L1270 700H85Z" fill="#dedacb" stroke="#817c6d" stroke-width="4"/>
+<path d="M177 355H1130" fill="none" stroke="#c46748" stroke-width="4" stroke-dasharray="17 10" opacity=".85"/>
+<path d="M930 120V605" fill="none" stroke="#c46748" stroke-width="4" stroke-dasharray="15 9"/>
+<circle cx="930" cy="155" r="11" fill="#f5efe0" stroke="#c46748" stroke-width="4"/>
+<path d="M920 605h20l-10 16z" fill="#b96b4a"/>
+<g transform="translate(475 276)"><rect width="390" height="35" rx="3" fill="#b7c6b3" stroke="#526755" stroke-width="4"/><path d="M28 0v14m30-14v9m30-9v14m30-14v9m30-9v14m30-14v9m30-9v14m30-14v9m30-9v14m30-14v9m30-9v14m30-14v9" stroke="#526755" stroke-width="2"/><rect x="174" y="9" width="42" height="17" rx="8" fill="#eef1db" stroke="#526755" stroke-width="2"/><circle cx="194" cy="17" r="5" fill="#d9b379"/></g>
+<g transform="translate(250 474)"><path d="M70 64L14 188M70 64l59 124M70 64v124" stroke="#657866" stroke-width="7"/><rect x="38" y="5" width="64" height="62" rx="8" fill="#c96c4c" stroke="#624f40" stroke-width="4"/><circle cx="70" cy="34" r="16" fill="#dce9dc" stroke="#526755" stroke-width="4"/></g>
+<g transform="translate(1012 615) rotate(-6)"><rect width="150" height="72" rx="4" fill="#faf8ee" stroke="#7b8171" stroke-width="4"/><path d="M22 22h99M22 36h85M22 50h96" stroke="#a7b7a3" stroke-width="4"/><path d="M132 -8l28 3-35 86-18-7z" fill="#c77955" stroke="#6d6958" stroke-width="3"/></g>
+<g transform="translate(937 591)"><rect width="64" height="56" rx="10" fill="#c36a4d" stroke="#6d5949" stroke-width="4"/><rect x="12" y="10" width="36" height="24" rx="3" fill="#e9eadc" stroke="#6d5949" stroke-width="3"/><path d="M61 27h93" stroke="#bdad79" stroke-width="7"/></g>
+</svg>

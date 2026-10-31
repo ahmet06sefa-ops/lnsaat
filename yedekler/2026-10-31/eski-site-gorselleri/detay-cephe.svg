@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" role="img">
+<defs>
+ <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r=".8" fill="#b4ad9d" opacity=".15"/><circle cx="19" cy="15" r=".7" fill="#b4ad9d" opacity=".1"/></pattern>
+ <pattern id="brick" width="82" height="46" patternUnits="userSpaceOnUse"><rect width="82" height="46" fill="#c99171"/><path d="M0 0h82M0 23h82M0 46h82M41 0v23M0 23v23M82 23v23" fill="none" stroke="#7d6d5a" stroke-width="2" opacity=".65"/></pattern>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#b6c8b5"/><path d="M0 0L22 22M22 0L0 22" stroke="#778f7d" stroke-width="1" opacity=".75"/></pattern>
+ <pattern id="grain" width="55" height="38" patternUnits="userSpaceOnUse"><path d="M0 7q16-7 29 0t26 0M0 25q15-6 26 0t29 0" fill="none" stroke="#d0b08b" stroke-width="1.5" opacity=".5"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1376" height="768" fill="#f6f3e8"/><rect width="1376" height="768" fill="url(#paper)"/>
+
+<!-- A generic outside wall insulation system as a side cross-section; layers not to scale -->
+<ellipse cx="687" cy="672" rx="500" ry="28" fill="#657b65" opacity=".10" filter="url(#shadow)"/>
+<path d="M195 145l80-43h168l-80 43z" fill="#d1a183" stroke="#796c5c" stroke-width="4"/><path d="M195 145h168v474H195z" fill="url(#brick)" stroke="#796c5c" stroke-width="4"/><path d="M363 145l80-43v474l-80 43z" fill="#b8785d" stroke="#796c5c" stroke-width="4"/>
+<path d="M443 145l56-29h45l-56 29z" fill="#cac9b4" stroke="#796c5c" stroke-width="4"/><rect x="443" y="145" width="45" height="474" fill="#c7c5ad" stroke="#796c5c" stroke-width="4"/>
+<path d="M488 145l61-31h165l-61 31z" fill="#dce3cf" stroke="#796c5c" stroke-width="4"/><rect x="488" y="145" width="165" height="474" fill="#d8e1ca" stroke="#796c5c" stroke-width="4"/><path d="M488 302h165M488 461h165" stroke="#a3b69f" stroke-width="3"/>
+<path d="M653 145l50-26h72l-50 26z" fill="#bed0b9" stroke="#796c5c" stroke-width="4"/><rect x="653" y="145" width="72" height="474" fill="url(#mesh)" stroke="#796c5c" stroke-width="4"/>
+<path d="M725 145l48-24h78l-48 24z" fill="#dedbcc" stroke="#796c5c" stroke-width="4"/><rect x="725" y="145" width="78" height="474" fill="#e4e0d2" stroke="#796c5c" stroke-width="4"/>
+<path d="M803 145l46-22h107l-46 22z" fill="#f8f4e9" stroke="#796c5c" stroke-width="4"/><rect x="803" y="145" width="107" height="474" fill="#f8f4e9" stroke="#796c5c" stroke-width="4"/>
+<g fill="#8b9587" stroke="#5a6959" stroke-width="3"><path d="M382 365h251v13H382z"/><circle cx="633" cy="371" r="23" fill="#d4dfca"/><circle cx="633" cy="371" r="8" fill="#a3b5a0"/></g>
+<path d="M950 183v405" stroke="#c57855" stroke-width="4" stroke-dasharray="11 11"/>
+</svg>
