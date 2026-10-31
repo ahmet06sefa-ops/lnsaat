@@ -1,0 +1,128 @@
+{
+  "kapak": {
+    "image": "/assets/saha/kapak.webp",
+    "title": "Örnek tamamlanmış iç mekân",
+    "author": "Curtis Adams",
+    "url": "https://www.pexels.com/photo/5698012/",
+    "license": "Pexels"
+  },
+  "islak": {
+    "image": "/assets/saha/islak.webp",
+    "title": "Yapımı devam eden seramik kaplama; yalıtım fotoğrafta görünmeyebilir",
+    "author": "Sergei Starostin",
+    "url": "https://www.pexels.com/photo/29181495/",
+    "license": "Pexels"
+  },
+  "seramik": {
+    "image": "/assets/saha/seramik.webp",
+    "title": "Bir iç mekânda karo döşeme uygulaması",
+    "author": "Sergei Starostin",
+    "url": "https://www.pexels.com/photo/29181494/",
+    "license": "Pexels"
+  },
+  "derz": {
+    "image": "/assets/saha/derz.webp",
+    "title": "Karo aralıkları ve döşeme aşaması",
+    "author": "Vladimir Srajber",
+    "url": "https://www.pexels.com/photo/11806489/",
+    "license": "Pexels"
+  },
+  "siva": {
+    "image": "/assets/saha/siva.webp",
+    "title": "Duvarda sıva ve yüzey düzeltme çalışması",
+    "author": "Antoni Shkraba",
+    "url": "https://www.pexels.com/photo/5493667/",
+    "license": "Pexels"
+  },
+  "alcipan": {
+    "image": "/assets/saha/alcipan.webp",
+    "title": "Alçı levha kesimi",
+    "author": "Jimmy Nilsson Masth",
+    "url": "https://www.pexels.com/photo/11427405/",
+    "license": "Pexels"
+  },
+  "boya": {
+    "image": "/assets/saha/boya.webp",
+    "title": "İç mekânda duvar boyama",
+    "author": "Maria Ovchinnikova",
+    "url": "https://www.pexels.com/photo/7509775/",
+    "license": "Pexels"
+  },
+  "laminat": {
+    "image": "/assets/saha/laminat.webp",
+    "title": "Laminat parke döşemesi",
+    "author": "K",
+    "url": "https://www.pexels.com/photo/4263067/",
+    "license": "Pexels"
+  },
+  "kapi": {
+    "image": "/assets/saha/kapi.webp",
+    "title": "İç kapıların bulunduğu bir koridor",
+    "author": "Lisa Anna",
+    "url": "https://www.pexels.com/photo/19899087/",
+    "license": "Pexels"
+  },
+  "guvenlik": {
+    "image": "/assets/saha/guvenlik.webp",
+    "title": "Şantiyede koruyucu donanımlı ekip",
+    "author": "Mikael Blomkvist",
+    "url": "https://www.pexels.com/photo/8961025/",
+    "license": "Pexels"
+  },
+  "tavan": {
+    "image": "/assets/saha/tavan.webp",
+    "title": "Tavanda yüzey çalışması",
+    "author": "Antoni Shkraba",
+    "url": "https://www.pexels.com/photo/4981770/",
+    "license": "Pexels"
+  },
+  "olcum": {
+    "image": "/assets/saha/olcum.webp",
+    "title": "Şantiyede ölçü alma",
+    "author": "Los Muertos Crew",
+    "url": "https://www.pexels.com/photo/8853469/",
+    "license": "Pexels"
+  },
+  "malzeme": {
+    "image": "/assets/saha/malzeme.webp",
+    "title": "Depoda istiflenmiş çimento torbaları",
+    "author": "Arthur  Uzoagba",
+    "url": "https://www.pexels.com/photo/29519165/",
+    "license": "Pexels"
+  },
+  "dolap": {
+    "image": "/assets/saha/dolap.webp",
+    "title": "Tadilat sürecindeki bir mutfak",
+    "author": "Thới Nam Cao",
+    "url": "https://www.pexels.com/photo/15124969/",
+    "license": "Pexels"
+  },
+  "cephe": {
+    "image": "/assets/saha/cephe.webp",
+    "title": "Dış cephede çalışma",
+    "author": "Mad Knoxx Deluxe",
+    "url": "https://www.pexels.com/photo/36096170/",
+    "license": "Pexels"
+  },
+  "kusur": {
+    "image": "/assets/saha/kusur.webp",
+    "title": "Çatlamış ve dökülmüş duvar sıvası",
+    "author": "Magda Ehlers",
+    "url": "https://www.pexels.com/photo/14990894/",
+    "license": "Pexels"
+  },
+  "teslim": {
+    "image": "/assets/saha/teslim.webp",
+    "title": "Şantiye kontrolü",
+    "author": "Kindel Media",
+    "url": "https://www.pexels.com/photo/8486912/",
+    "license": "Pexels"
+  },
+  "tas": {
+    "image": "/assets/saha/tas.webp",
+    "title": "Dış mekânda taş döşeme çalışması",
+    "author": "Tahir Xəlfəquliyev",
+    "url": "https://www.pexels.com/photo/33497127/",
+    "license": "Pexels"
+  }
+}

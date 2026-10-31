@@ -1,0 +1,2 @@
+31 Ekim 2026 tarihli önceki sürümde kullanılan 18 optimize edilmiş Pexels fotoğrafının yedeğidir. Fotoğrafçı ve kaynak adresleri kaynaklar.json içindedir. Yeniden kullanımda Pexels lisansı ve koşullarını kontrol edin: https://www.pexels.com/license/
+Kullanıcının isteğiyle bu sahnelerin yerine yapay zekâ ile oluşturulan örnek görseller getirilmiştir. Malzeme ürün görselleri bu yedeklemeye dahil değildir.
